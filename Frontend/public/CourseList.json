@@ -1,0 +1,99 @@
+[
+    {
+        "id":1,
+        "name": "MS-Paint Book",
+        "Title": "Microsoft Paint is a simple graphics editor that has been included in all versions of Microsoft Windows.",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-vector/online-education-concept_35029-55.jpg?uid=R155225704&ga=GA1.2.1432668453.1720544741&semt=ais_hybrid"
+
+    },
+    {
+        "id":2,
+        "name": "MS-Excel Book",
+        "Title": "Microsoft Paint is a simple graphics editor that has been included in all versions of Microsoft Windows.",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-vector/online-education-concept_35029-55.jpg?uid=R155225704&ga=GA1.2.1432668453.1720544741&semt=ais_hybrid"
+
+    },
+    {
+        "id":3,
+        "name": "MS-PowerPoint Book",
+        "Title": "Microsoft Paint is a simple graphics editor that has been included in all versions of Microsoft Windows.",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-vector/online-education-concept_35029-55.jpg?uid=R155225704&ga=GA1.2.1432668453.1720544741&semt=ais_hybrid"
+
+    },
+    {
+        "id":4,
+        "name": "MS-Excel Book",
+        "Title": "Microsoft Paint is a simple graphics editor that has been included in all versions of Microsoft Windows.",
+        "price":500,
+        "category":"Sheet Book",
+        "image": "https://img.freepik.com/premium-vector/online-education-concept_35029-55.jpg?uid=R155225704&ga=GA1.2.1432668453.1720544741&semt=ais_hybrid"
+
+    },
+    {
+        "id":5,
+        "name": "ADCA Book",
+        "Title": "Microsoft Paint is a simple graphics editor that has been included in all versions of Microsoft Windows.",
+        "price":800,
+        "category":"ADCA",
+        "image": "https://img.freepik.com/premium-vector/online-education-concept_35029-55.jpg?uid=R155225704&ga=GA1.2.1432668453.1720544741&semt=ais_hybrid"
+
+    },
+    {
+        "id":6,
+        "name": "DCA Book",
+        "Title": "Microsoft Paint is a simple graphics editor that has been included in all versions of Microsoft Windows.",
+        "price":0,
+        "category":"DCA",
+        "image": "https://img.freepik.com/premium-vector/online-education-concept_35029-55.jpg?uid=R155225704&ga=GA1.2.1432668453.1720544741&semt=ais_hybrid"
+
+    },
+    {
+        "id":7,
+        "name": "CCC Book",
+        "Title": "Microsoft Paint is a simple graphics editor that has been included in all versions of Microsoft Windows.",
+        "price":0,
+        "category":"CCC",
+        "image": "https://img.freepik.com/premium-vector/online-education-concept_35029-55.jpg?uid=R155225704&ga=GA1.2.1432668453.1720544741&semt=ais_hybrid"
+
+    },
+    {
+        "id":8,
+        "name": "TALLY Book",
+        "Title": "Microsoft Paint is a simple graphics editor that has been included in all versions of Microsoft Windows.",
+        "price":700,
+        "category":"TALLY",
+        "image": "https://img.freepik.com/premium-vector/online-education-concept_35029-55.jpg?uid=R155225704&ga=GA1.2.1432668453.1720544741&semt=ais_hybrid"
+
+    },
+    {
+        "id":9,
+        "name": "Photoshop Book",
+        "Title": "Microsoft Paint is a simple graphics editor that has been included in all versions of Microsoft Windows.",
+        "price":0,
+        "category":"Photoshop",
+        "image": "https://img.freepik.com/premium-vector/online-education-concept_35029-55.jpg?uid=R155225704&ga=GA1.2.1432668453.1720544741&semt=ais_hybrid"
+
+    },
+    {
+        "id":10,
+        "name": "CCA Book",
+        "Title": "Microsoft Paint is a simple graphics editor that has been included in all versions of Microsoft Windows.",
+        "price":0,
+        "category":"CCA",
+        "image": "https://img.freepik.com/premium-vector/online-education-concept_35029-55.jpg?uid=R155225704&ga=GA1.2.1432668453.1720544741&semt=ais_hybrid"
+    },
+    {
+        "id":11,
+        "name": "MS-PowerPoint Book",
+        "Title": "Microsoft Paint is a simple graphics editor that has been included in all versions of Microsoft Windows.",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-vector/online-education-concept_35029-55.jpg?uid=R155225704&ga=GA1.2.1432668453.1720544741&semt=ais_hybrid"
+    }
+]
